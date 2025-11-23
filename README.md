@@ -50,7 +50,7 @@ Step-6. File Structure
 -----------------
 project-folder/
 │
-├── tic_tac_toe.py
+├── Projects.py
 
 Step-7. Conclusion
 -----------------
